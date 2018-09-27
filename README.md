@@ -1,5 +1,5 @@
 # bandits
-This is a replication of the Daw study (four-armed bandit), varying the number of choices (4-armed, 9-armed, and 16-armed).
+This is a replication of the Daw et al. (2006) study (four-armed bandit), varying the number of choices (4-armed, 9-armed, and 16-armed).
 
 IV: Number of bandits (4,9,16)
 
